@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ce77e71-f88e-4a45-81dd-016dfdecf72d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/calculate_weight/L1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_leap_year/lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codegym/first_degree_equation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/codegym/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_money/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days_mout/lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/declare_and_use_variables/lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbertoletter/L1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/calculate_money/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/com/codegym/link_git.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/display_icon/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/greatest_common_divisor/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/menu_application/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/number_prime/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/prime_from2to100/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/src/prime_number/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_method/src/arr/reverse/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_method/src/com/codegym/linkgit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_method/src/com/codegym/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_method/src/search_value_array/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SystemTime/target/classes/SystemTime.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zLV3nqMLqHJIuCrGF2O9c9aqjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce77e71-f88e-4a45-81dd-016dfdecf72d" name="Changes" comment="" />
+      <created>1633927158719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633927158719</updated>
+    </task>
+    <servers />
+  </component>
+</project>
