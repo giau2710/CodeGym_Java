@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c475b3b9-d523-4ddf-9246-e6c15c0128a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/Arraylist/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/Arraylist/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/linked_list_simple/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/linked_list_simple/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/list_simple/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.DSA_Danh_Sach/src/list_simple/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.DSA_Stack_Queue/src/demoComparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.DSA_Stack_Queue/src/demoComparable/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.DSA_Stack_Queue/src/demoComparable/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.DSA_Stack_Queue/src/demoQueue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.DSA_Stack_Queue/src/demoStack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.array_method/src/count_appear/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.array_method/src/count_quantity_passTheExem/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.array_method/src/sum_column/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.array_method/src/sum_diagonal_line/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/Fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/Fan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/QuadraticEquation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/QuadraticEquation/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/StopWatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/StopWatch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/class_rectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/class_rectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.opp/src/com/codegym/link_git.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/access_modifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/access_modifier/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/static_method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/static_method/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/static_property/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.Access modifier, static method, static property/src/static_property/TestStaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/circle_and_Cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/circle_and_Cylinder/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/circle_and_Cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/circle_and_Cylinder/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.Inherit/src/geometry_object/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/animal/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.AbstractClass_Interface/src/interfaceResizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_doitenbien_tachhang/Refactoring/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_doitenbien_tachhang/Refactoring/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_tachbien/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_tachbien/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_tachpuongthuc/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/Refactoring_tachpuongthuc/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.CleanCode_Refactoring/src/com/codegym/linkGit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/FizzBuzz/FizzBuzzTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/FizzBuzz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/absolutev_alue/AbsoluteNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/calculate_day_next/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/calculate_day_next/NextDayCalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/classify_triangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/classify_triangle/TamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/classify_triangle/Testtamgiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/simpleCalculator/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/src/simpleCalculator/SimpleCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.Automated-Testing_TDD/test/absolutev_alue/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/IMarineAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/Animal/ITerrestrialAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Random/src/Random/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Random/src/Random/random2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.Introduction/out/production/untitled104/Introduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.Introduction/out/production/untitled104/numbertoletter/numbertoletter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.array_method/out/production/array_method/com/codegym/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../3.array_method/out/production/array_method/com/codegym/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.array_method/src/com/codegym/linkgit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3.array_method/src/com/codegym/linkgit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.array_method/src/com/codegym/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3.array_method/src/com/codegym/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.opp/out/production/opp/com/codegym/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4.opp/out/production/opp/com/codegym/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.opp/src/com/codegym/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.opp/src/com/codegym/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.opp/src/com/codegym/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.opp/src/com/codegym/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zyo9nKPb37M3asp7GUeSns72fZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binari_search.BinarySearch" />
+      <module name="search_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binari_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Main" />
+      <module name="search_algorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BinarySearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c475b3b9-d523-4ddf-9246-e6c15c0128a7" name="Changes" comment="" />
+      <created>1635129542067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635129542067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
