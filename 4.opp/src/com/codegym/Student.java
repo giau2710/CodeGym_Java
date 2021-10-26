@@ -2,7 +2,6 @@ package com.codegym;
 
 public class Student {
 
-
     int id;
     String name;
     int classId;
