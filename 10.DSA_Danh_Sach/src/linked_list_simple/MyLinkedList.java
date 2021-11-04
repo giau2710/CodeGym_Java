@@ -44,7 +44,11 @@ public class MyLinkedList {
         }
     }
 
+<<<<<<< HEAD
     private static class Node {
+=======
+    private class Node {
+>>>>>>> origin/main
         private Node next;
         private final Object data;
 

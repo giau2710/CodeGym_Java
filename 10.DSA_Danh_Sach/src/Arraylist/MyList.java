@@ -1,6 +1,9 @@
 package Arraylist;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
+=======
+>>>>>>> origin/main
 import java.util.Arrays;
 
 public class MyList<E> {
@@ -13,7 +16,10 @@ public class MyList<E> {
     public MyList(Object[] elements ,int size) {
         this.elements=elements;
         this.size=size;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
     }
     public MyList(int capacity) {
 
@@ -43,7 +49,10 @@ public class MyList<E> {
         elements = Arrays.copyOf(elements,newSize);
         size--;
         return element;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
     }
 
     public void ensureCapacity() {
